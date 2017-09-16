@@ -8,7 +8,7 @@ The Assignment is based on data collected from the accelerometers from the Samsu
 
 Information about the R scripts used for the Week 4 Assignment.
 
-## Run_analysis.R
+## run_analysis.R
 
 This is the script that performs the cleaning and tidying of the dataset as described in the excercise and listed below.
 
